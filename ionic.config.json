@@ -1,0 +1,8 @@
+{
+  "name": "memory-mate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8c23bba6"
+}
